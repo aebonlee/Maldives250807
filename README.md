@@ -1,12 +1,13 @@
 # Maldives250807
 Maldives250807
 
-
 https://aebonlee.github.io/Maldives250807/
 
 ![alt text](image.png)
 
 반응형 사이트로 각 화면 크기에 맞춰서 레이아웃이 변경됩니다.
+
+---
 
 **화면의 폭에 따라 변하는 웹 레이아웃**
 
@@ -92,7 +93,7 @@ step6. 특정 화면 폭에서 어색한 부분 수정하기
 
 step7. 전체 코드 확인하기
 
-
+---
 
 <<경로설정하기>>
 
@@ -120,7 +121,7 @@ step7. 전체 코드 확인하기
 
 **CSS3의 벤더프리픽스의 생략을 도와주는 플러그인 파일**
 
-
+---
 
 << my_template >>
 
@@ -137,6 +138,8 @@ a { outline:0; text-decoration:none; color:#555; }
 img { border:0;}
 
 body { font:12px/1.6 arial; color:#555; }
+
+---
 
 JS 폴더 : custom.js
 
@@ -156,6 +159,8 @@ fontawesome.com](https://fontawesome.com/docs/web/style/animate)
 
 [](https://dthumb-phinf.pstatic.net/?src=%22https%3A%2F%2Fimg.fortawesome.com%2F1ce05b4b%2Fopen-graph-general.png%22&type=ff500_300)
 
+---
+
 CSS
 
 p { color:white; font-size:20px; font-family:'Poiret One';
@@ -172,7 +177,7 @@ Welcome to My Homepage~
 
 Have a nice day! *^^* </marquee></p>
 
-
+---
 
 step1. 준비작업
 
@@ -184,13 +189,13 @@ step1. 준비작업
 
 웹 아이콘을 적용하기 위한 외부 CSS 링크 파일
 
-
+---
 
 step2. 가로 폭 1600px 이상에서의 기본 레이아웃 설정
 
 12개의 <article> 생성 / 컬러별 구분하기 위해 색상 선정 / 첫 번재 요소만 520px 지정
 
-
+---
 
 step3. 미디어쿼리로 화면 폭마다 레이아웃 다르게 설정
 
@@ -216,7 +221,7 @@ step3. 미디어쿼리로 화면 폭마다 레이아웃 다르게 설정
 
 - animation 구문에서 횟수를 1로 지정, 처음 로딩시 한번 실행
 
-
+---
 
 step4. <header> 완성하기
 
@@ -224,7 +229,7 @@ step4. <header> 완성하기
 - 로고 이미지도 2가지로 준비하여 변경시 호출
 - 479px 이하에서는 각 메뉴에 padding로 모양을 잡아주어 모바일에서 이용하기 편하도록 구성
 
-
+---
 
 step5. <nav>, <article> 콘텐츠 채워 넣기
 
